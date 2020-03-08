@@ -1,0 +1,10 @@
+.vs
+.git
+GLEW
+GLFW
+SDL2
+glew32.dll
+SDL2.dll
+x64
+Debug
+Release
